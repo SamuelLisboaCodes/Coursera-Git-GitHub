@@ -1,3 +1,8 @@
-# Coursera-Git-GitHub
+# Simple Interest Calculator
 
-Proposta de atividade avaliativa do curso Introdução ao Git e ao GitHub-IBM (Coursera)
+This is a simple Bash script that calculates simple interest.
+
+## Usage
+
+```bash
+bash simple-interest.sh
